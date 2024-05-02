@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ryanw\\OneDrive\\Desktop\\repos\\SelStatementsExercise2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A874DA4E-1F1C-4954-8228-E5320DEBCBAF}|SelStatementsExercise2\\SelStatementsExercise2.csproj|c:\\users\\ryanw\\onedrive\\desktop\\repos\\selstatementsexercise2\\selstatementsexercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A874DA4E-1F1C-4954-8228-E5320DEBCBAF}|SelStatementsExercise2\\SelStatementsExercise2.csproj|solutionrelative:selstatementsexercise2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ryanw\\OneDrive\\Desktop\\repos\\SelStatementsExercise2\\SelStatementsExercise2\\Program.cs",
+              "RelativeDocumentMoniker": "SelStatementsExercise2\\Program.cs",
+              "ToolTip": "C:\\Users\\ryanw\\OneDrive\\Desktop\\repos\\SelStatementsExercise2\\SelStatementsExercise2\\Program.cs",
+              "RelativeToolTip": "SelStatementsExercise2\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:43:35.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

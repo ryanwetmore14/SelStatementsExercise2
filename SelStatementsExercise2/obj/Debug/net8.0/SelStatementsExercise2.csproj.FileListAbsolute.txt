@@ -1,0 +1,15 @@
+C:\Users\ryanw\OneDrive\Desktop\repos\SelStatementsExercise2\SelStatementsExercise2\bin\Debug\net8.0\SelStatementsExercise2.exe
+C:\Users\ryanw\OneDrive\Desktop\repos\SelStatementsExercise2\SelStatementsExercise2\bin\Debug\net8.0\SelStatementsExercise2.deps.json
+C:\Users\ryanw\OneDrive\Desktop\repos\SelStatementsExercise2\SelStatementsExercise2\bin\Debug\net8.0\SelStatementsExercise2.runtimeconfig.json
+C:\Users\ryanw\OneDrive\Desktop\repos\SelStatementsExercise2\SelStatementsExercise2\bin\Debug\net8.0\SelStatementsExercise2.dll
+C:\Users\ryanw\OneDrive\Desktop\repos\SelStatementsExercise2\SelStatementsExercise2\bin\Debug\net8.0\SelStatementsExercise2.pdb
+C:\Users\ryanw\OneDrive\Desktop\repos\SelStatementsExercise2\SelStatementsExercise2\obj\Debug\net8.0\SelStatementsExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanw\OneDrive\Desktop\repos\SelStatementsExercise2\SelStatementsExercise2\obj\Debug\net8.0\SelStatementsExercise2.AssemblyInfoInputs.cache
+C:\Users\ryanw\OneDrive\Desktop\repos\SelStatementsExercise2\SelStatementsExercise2\obj\Debug\net8.0\SelStatementsExercise2.AssemblyInfo.cs
+C:\Users\ryanw\OneDrive\Desktop\repos\SelStatementsExercise2\SelStatementsExercise2\obj\Debug\net8.0\SelStatementsExercise2.csproj.CoreCompileInputs.cache
+C:\Users\ryanw\OneDrive\Desktop\repos\SelStatementsExercise2\SelStatementsExercise2\obj\Debug\net8.0\SelStatementsExercise2.sourcelink.json
+C:\Users\ryanw\OneDrive\Desktop\repos\SelStatementsExercise2\SelStatementsExercise2\obj\Debug\net8.0\SelStatementsExercise2.dll
+C:\Users\ryanw\OneDrive\Desktop\repos\SelStatementsExercise2\SelStatementsExercise2\obj\Debug\net8.0\refint\SelStatementsExercise2.dll
+C:\Users\ryanw\OneDrive\Desktop\repos\SelStatementsExercise2\SelStatementsExercise2\obj\Debug\net8.0\SelStatementsExercise2.pdb
+C:\Users\ryanw\OneDrive\Desktop\repos\SelStatementsExercise2\SelStatementsExercise2\obj\Debug\net8.0\SelStatementsExercise2.genruntimeconfig.cache
+C:\Users\ryanw\OneDrive\Desktop\repos\SelStatementsExercise2\SelStatementsExercise2\obj\Debug\net8.0\ref\SelStatementsExercise2.dll
